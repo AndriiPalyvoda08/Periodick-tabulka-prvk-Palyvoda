@@ -1,7 +1,57 @@
 table{
-    border: 3px solid black;
-    border-collapse: collapse;
+    border: 2px solid black;
+    text-align: center;
+    width: 100px;
+    height: 50px;
 }
-th, td{
+tr, td{
     border: 1px solid black;
+    width: 100px;
+    height: 50px;
+}
+th{
+    border: 0px;
+    width: 100px;
+    height: 50px;
+}
+.gorn{
+    visibility: hidden;
+}
+.alka{
+    background-color: rgb(255, 127, 144);
+    border: 0px;
+
+}
+.zemi{
+    background-color: rgb(248, 174, 37);
+    border: 0px;   
+  
+}
+.pře{
+    background-color: rgb(212, 132, 236);
+    border: 0px;
+ 
+}
+.kov{
+    background-color: rgb(150, 156, 231);
+    border: 0px; 
+
+}
+.pol{
+    background-color: rgb(150, 231, 227);
+    border: 0px;
+
+}
+.nekov{
+    background-color: rgb(153, 231, 150);
+    border: 0px;
+
+}
+.halo{
+    background-color: rgb(56, 73, 233);
+    border: 0px; 
+}
+.plyn{
+    background-color: rgb(238, 225, 51);
+    border: 0px;
 }
