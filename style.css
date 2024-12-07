@@ -1,8 +1,8 @@
 table{
     border: 2px solid black;
     text-align: center;
-    width: 100px;
-    height: 50px;
+    width: 2000px;
+    height: 1000px;
 }
 tr, td{
     border: 1px solid black;
@@ -54,4 +54,28 @@ th{
 .plyn{
     background-color: rgb(238, 225, 51);
     border: 0px;
+}
+.alkany{
+    background-color: rgb(255, 127, 144);
+}
+.zeminy{
+    background-color: rgb(248, 174, 37);
+}
+.překovy{
+    background-color: rgb(212, 132, 236);
+}
+.kovy2{
+    background-color: rgb(150, 156, 231);
+}
+.polkov{
+    background-color: rgb(150, 231, 227);
+}
+.nekovy{
+    background-color: rgb(153, 231, 150);
+}
+.halogeny{
+    background-color: rgb(56, 73, 233);
+}
+.plyny{
+    background-color: rgb(238, 225, 51);
 }
