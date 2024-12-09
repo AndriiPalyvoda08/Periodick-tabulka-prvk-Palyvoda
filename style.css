@@ -11,6 +11,7 @@ table{
 }
 td{
     border: 2px solid black;
+    font-weight: bolder;
     width: 100px;
     height: 50px;
 }
@@ -88,4 +89,5 @@ th{
 .podtext{
     text-align: center;
     font-size: 13px;
+    font-weight: normal;
 }
