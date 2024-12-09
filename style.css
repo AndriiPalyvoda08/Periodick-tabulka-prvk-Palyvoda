@@ -1,21 +1,27 @@
+h1{
+   text-align: center;
+}
 table{
-    border: 2px solid black;
+    border: 0px solid black;
+    border-collapse: collapse ;
     text-align: center;
     width: 2000px;
     height: 1000px;
+    text-align: center;
 }
-tr, td{
-    border: 1px solid black;
+td{
+    border: 2px solid black;
     width: 100px;
     height: 50px;
 }
 th{
-    border: 0px;
+    border: 0px solid black;
     width: 100px;
     height: 50px;
 }
 .gorn{
     visibility: hidden;
+    border: 0px rgb(0, 0, 0);
 }
 .alka{
     background-color: rgb(255, 127, 144);
@@ -78,4 +84,8 @@ th{
 }
 .plyny{
     background-color: rgb(238, 225, 51);
+}
+.podtext{
+    text-align: center;
+    font-size: 13px;
 }
